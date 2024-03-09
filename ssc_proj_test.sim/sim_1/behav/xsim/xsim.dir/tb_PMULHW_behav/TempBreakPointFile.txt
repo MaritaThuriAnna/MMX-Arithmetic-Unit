@@ -1,0 +1,2 @@
+Breakpoint File Version 1.0
+29,true,"C:/Users/marit/Desktop/ANUL 3/SSC/ssc_proj_test/ssc_proj_test.srcs/sources_1/new/csa.vhd"
